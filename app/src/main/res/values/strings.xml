@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator_result_text">=</string>
+    <string name="calculator_value_one_hint">Primer valor</string>
+    <string name="calculator_value_two_hint">Segundo valor</string>
+    <string name="calculator_value_operator_hint">Operador</string>
+</resources>
